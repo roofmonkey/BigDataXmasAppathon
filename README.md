@@ -37,8 +37,8 @@ Teams are okay ~ Project doesn't need to be done by indivuduals, you can compete
 
 If using external data :
 
-Rules
-=====
+More Rules
+==========
 
 Project must leverage a red hat product, fedora ecosystem packages, or upstream community with RHT engagement
 
