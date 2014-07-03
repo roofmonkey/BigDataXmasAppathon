@@ -9,7 +9,8 @@ Variable : Depends on donations.  So far
 
 1 bottle of Caymus Cabernet (Really awesome)
 
-Scoring:
+Scoring
+=======
 
 Each project gets 0-1 points for each category, where each score can have one decimal point.
 
@@ -29,14 +30,15 @@ maintainability : how easy to add a new phase to the pipeline ?
 
 documentation : how easy is it for someone to contribute ?
 
-+ Rules:
+Rules
+=======
 
 Teams are okay ~ Project doesn't need to be done by indivuduals, you can compete as a team.
 
 If using external data :
 
-- Rules:
-
+Rules
+=====
 
 Project must leverage a red hat product, fedora ecosystem packages, or upstream community with RHT engagement
 
@@ -69,17 +71,13 @@ But are equally obliged to evaluate ALL other apps as well !
 jay vyas (jvyas@redhat.com)
 
 TEAMS
+=======
 
-Team 0:
-
+- Team 0
 Jay Vyas, Michael McCune
 
-Team 1:
-
+- Team 1
 Will Benton
 
-Team 2:
-
+- Team 2
 RJ Nowling
-
-........... (enter your team here or join one above)
