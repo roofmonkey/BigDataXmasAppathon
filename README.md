@@ -1,13 +1,8 @@
 BigDataXmasAppathon
 ===================
 
-BigDataDemolition Derby is on
-
 The prize (add prizes here which you are willing to contribute)
-
-Variable : Depends on donations.  So far
-
-1 bottle of Caymus Cabernet (Really awesome)
+Variable : Depends on donations.  So far 1 bottle of Caymus Cabernet (Really awesome)
 
 Scoring
 =======
@@ -22,33 +17,24 @@ code quality : does reading the code make you cry ?
 
 hip factor : does watching the demo make you smile ?
 
-scalability  : any non-scalable  bottlenecks? (notwithstanding any interactive/visualization part of the app which is not parallelized) 
-
-testability : can it be tested without a cluster?
-
-maintainability : how easy to add a new phase to the pipeline ?
-
-documentation : how easy is it for someone to contribute ?
+*scalability*  : any non-scalable  bottlenecks? (notwithstanding any interactive/visualization part of the app which is not parallelized) 
+*testability* : can it be tested without a cluster?
+*maintainability* : how easy to add a new phase to the pipeline ?
+*documentation* : how easy is it for someone to contribute ?
 
 Rules
 =======
 
 Teams are okay ~ Project doesn't need to be done by indivuduals, you can compete as a team.
 
-If using external data :
-
 More Rules
 ==========
 
-Project must leverage a red hat product, fedora ecosystem packages, or upstream community with RHT engagement
-
-Project code must be hosted on a public git or SVN repository.
-
-Project must run from source / README directions, entirely.
-
-Project must scale : no one off scripts - even the data formatting and ETL have to be parallelized.
-
-Project must include a cool visualization component.
+Project must leverage a *red hat product, fedora ecosystem packages, or upstream community with RHT engagement*
+Project code must be hosted on a *here*.
+Project must run *from source / README directions, entirely*.
+Project must scale : *no one off scripts - even the data formatting and ETL have to be parallelized.*
+Project must include a cool *visualization component.*
 
 If using external data : End users should be able to pull it down, or generate mock data, to run the app.
 
@@ -57,14 +43,14 @@ Project have at least one unit test so that reviewers can do sanity check before
 Getting Started
 
 Put your code somewhere we can pull it down.
-
 If not familiar with jenkins - get someone to help you set up a build for your project.
-
 Start hacking.
-
 Finish hacking by december 20th so you can have all your docs done by december 25th.
 
-Judges (volunteer your name here) - judges ARE allowed to vote on their own apps...
+Judges
+======
+
+(volunteer your name here) - judges ARE allowed to vote on their own apps...
 
 But are equally obliged to evaluate ALL other apps as well !
 
